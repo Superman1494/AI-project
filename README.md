@@ -1,1 +1,1 @@
-# AI-project
+The project involves importing libraries, loading and exploring data, cleaning and preprocessing it, building and training ANN, RNN, and CNN models, evaluating and visualizing results to create a comprehensive sentiment analysis project.
